@@ -7,3 +7,7 @@ dist/
 *.egg-info/
 .pytest_cache/
 .DS_Store
+.env
+*.env
+*.pem
+*.key
